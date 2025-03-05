@@ -5,7 +5,7 @@ A web-based sorting visualizer that helps users understand how different sorting
 
 ## 🚀 Live Demo
 
-Check out the live version here: [Sorting Visualizer](#)
+Check out the live version here: [Sorting Visualizer](https://kiran511-git.github.io/Sorting-Visualizer/)
 
 ## 📌 Features
 
